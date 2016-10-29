@@ -1,0 +1,7 @@
+username	|password
+admin   	|password
+test    	|test
+aaronlam	|@Ar0n
+Mary Smith	|user1
+John Wang	|user2
+Alex Bington|user3
