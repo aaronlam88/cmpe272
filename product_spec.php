@@ -30,7 +30,44 @@ echo "
     </th>
   </tr>
 </table>
-<table>";
-  ?>
+";
 
-  <?php require_once "footer.php"; ?>
+$spec = fopen("$imgdir/spec.txt", "r");
+$first = true;
+
+echo "<table class=\"table table-striped table-hover\">";
+
+if ($spec) {
+
+  while (($line = fgets($spec)) !== false) {
+
+    if($first) {
+      $line = trim($line);
+      echo "<tr> <th colspan=\"2\" style=\"text-align:center\"> $line </th> </tr>";
+      $first = false;
+    } else {
+      echo "
+      <tr>
+        <th> $line </th>
+        <td>";
+      while (($line = fgets($spec)) !== false && !ctype_alnum($line[0])) {
+        echo "
+        $line <br>";
+      }
+      echo "
+        </td>
+      </tr>";
+      if (!feof($spec)) {
+       fseek($spec, ftell($spec)-strlen($line));
+      }
+    }
+  }
+
+  fclose($spec);
+} else {
+    // error opening the file.
+} 
+echo "</table>";
+?>
+
+<?php require_once "footer.php"; ?>

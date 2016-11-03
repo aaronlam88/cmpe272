@@ -26,6 +26,7 @@ function setActive($currentPage, $compare) {
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <link rel="stylesheet" type="text/css" href="/CMPE-272/stylesheet.css?v=1.1">
+  <script src="/CMPE-272/javascript.js"></script>
 </head>
 
 <body class="container">
