@@ -1,5 +1,5 @@
 <?php
-$TITLE="Home";
+$TITLE="User";
 require_once "header.php";
 ?>
 

@@ -1,6 +1,3 @@
-$('a[rel=popover]').popover({
-  html: true,
-  trigger: 'hover',
-  placement: 'left',
-  content: function(){return '<img src="'+$(this).data('img') + '" />';}
-});
+function show_image(image) {
+  document.getElementById("image").src = image ;
+}

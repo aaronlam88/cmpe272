@@ -44,6 +44,60 @@ tr:nth-child(even) {
 /****************************************************/
 /* Image Style                                      */
 /****************************************************/
-.icon {
-  height: 250px;
+.image
+{
+  display: inline-block;
 }
+
+.image img
+{
+  display: block;
+  width: auto;
+}
+
+.image-full
+{
+  display: block;
+  width: 100%;
+  margin: 0 0 2em 0;
+}
+
+.image-left
+{
+  float: left;
+  margin: 0 2em 2em 0;
+}
+
+.image-centered
+{
+  display: block;
+  margin: 0 0 2em 0;
+}
+
+.image-centered img
+{
+  margin: 0 auto;
+  width: auto;
+}
+
+.image-small
+{
+  display: block;
+  margin: auto;
+  width: 350px;
+}
+
+.image-icon
+{
+  display: block;
+  margin: auto;
+  width: 100px;
+}
+
+.image-small:hover
+{
+  display: block;
+  margin: auto;
+  width: 600px;
+}
+

@@ -24,19 +24,22 @@ require_once "header.php";
             echo "
               <tr>
                 <td>
-                  <img class=\"icon\" src=\"$curDir/01.png\">
+                  <a href=\"/CMPE-272/product_spec.php?name=$fileName\">
+                  <img class=\"image-icon\" src=\"$curDir/01.png\">
+                  </a>
                 </td>
                 <td> 
                 " . 
                 "<h3>" . strtoupper(str_replace('_', ' ', $fileName)) . "</h3>" .
                 file_get_contents("$imgdir/$fileName/description.txt") .
                 "
+                <a href=\"/CMPE-272/product_spec.php?name=$fileName\"> more... </a>
                 </td>
-                <td>" .
+                  <td>" .
                 file_get_contents("$imgdir/$fileName/price.txt") .
                 "
-                </td>
-              <tr>";
+                  </td>
+                <tr>";
           }
         }
       ?>
