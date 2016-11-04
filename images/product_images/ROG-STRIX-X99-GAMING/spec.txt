@@ -1,0 +1,163 @@
+Specifications
+CPU
+	Intel® Socket 2011-v3 Core™ i7 X-Series Processors 
+	Supports Intel® 14 nm CPU
+	Supports Intel® Turbo Boost Max Technology 3.0 
+	* Refer to www.asus.com for CPU support list
+Chipset
+	Intel® X99
+Memory
+	8 x DIMM, Max. 128GB, DDR4 3333(O.C.)/3300(O.C.)/3000(O.C.)/2800(O.C.)/2666(O.C.)/2400(O.C.)/2133 MHz Non-ECC, Un-buffered Memory 
+	Quad Channel Memory Architecture 
+	Supports Intel® Extreme Memory Profile (XMP)
+	** Refer to www.asus.com for the Memory QVL (Qualified Vendors Lists).
+	* Hyper DIMM support is subject to the physical characteristics of individual CPUs. 
+Multi-GPU Support
+	Supports NVIDIA® 3-Way SLI™ Technology 
+	Supports NVIDIA® 2-Way SLI™ Technology 
+	Supports AMD 3-Way CrossFireX™ Technology 
+	Supports AMD 2-Way CrossFireX Technology
+Expansion Slots
+	3 x PCIe 3.0/2.0 x16 ( x16, x16/x16, x8/x16/x8 mode with 40-LANE CPU; x16, x16/x8, x8/x8/x8 mode with 28-LANE CPU) 
+	1 x PCIe 2.0 x16 (x4 mode) 
+	2 x PCIe 2.0 x1 *1
+Storage
+	New Intel® Core™ i7 X-Series Processors : 
+	1 x M.2 Socket 3, with M Key, type 2242/2260/2280/22110 storage devices support (Support PCIE SSD only)
+	1 x U.2 port, support PCIe 3.0 x4 NVM Express storage
+	Intel® X99 chipset : 
+	1 x SATA Express port, Compatible with 2 x SATA 6.0 Gb/s ports
+	8 x SATA 6Gb/s port(s), 
+	Supports Intel® Smart Response Technology, Intel® Rapid Recovery Technology*2
+LAN
+	Intel® I218V, 1 x Gigabit LAN Controller(s)
+Wireless Data Network
+	Wi-Fi 802.11 a/b/g/n/ac
+	Supports dual band frequency 2.4/5 GHz
+	Supports MU-MIMO
+Bluetooth
+	Bluetooth V4.1
+Audio
+	ROG SupremeFX 8-Channel High Definition Audio CODEC 
+	- Supports : Jack-detection, Multi-streaming, Front Panel Jack-retasking
+	Audio Feature :
+	- SupremeFX Shielding™ Technology
+	- Optical S/PDIF out port(s) at back panel
+	- Audio amplifier: Provides the highest-quality sound for headphone and speakers
+	- Premium Japanese-made audio capacitors: Provide warm, natural and immersive sound with exceptional clarity and fidelity
+	- Sonic Radar II
+USB Ports
+	Intel® X99 chipset : 
+	5 x USB 3.0 port(s) (1 at back panel, blue, 4 at mid-board)
+	Intel® X99 chipset : 
+	8 x USB 2.0 port(s) (4 at back panel, , 4 at mid-board)
+	ASMedia® USB 3.0 controller : 
+	3 x USB port(s) (3 at back panel, blue)
+	ASMedia® USB 3.1 controller : 
+	2 x USB 3.1 port(s) (2 at back panel, , Type-A + Type-C)
+ROG Exclusive Features
+	ROG RAMCache
+	Overwolf
+	GameFirst IV
+	USB BIOS Flashback
+Special Features
+	5-Way Optimization by Dual Intelligent Processors 5
+	- 5-Way Optimization tuning key perfectly consolidates TPU, EPU, DIGI+ VRM, Fan Xpert 4, and Turbo Core App
+	Gamer's Guardian:
+	- ESD Guards on LAN, Audio, KBMS and USB3.1/3.0/2.0 ports 
+	- DRAM Overcurrent Protection
+	- Stainless Steel Back I/O
+	- Highly Durable Components
+	- DIGI+ VRM
+	ASUS Exclusive Features :
+	- USB BIOS Flashback
+	- MemOK!
+	- AI Suite 3
+	- Ai Charger+
+	- ESD Guards
+	- USB 3.0 Boost
+	- USB 3.1 Boost
+	- Disk Unlocker
+	- Mobo Connect
+	- PC Cleaner
+	ASUS Quiet Thermal Solution :
+	- ASUS Fan Xpert 4
+	ASUS EZ DIY :
+	- ASUS CrashFree BIOS 3 
+	- ASUS EZ Flash 3 
+	- Push Notice
+	ASUS Q-Design :
+	- ASUS Q-Shield
+	- ASUS Q-Code
+	- ASUS Q-LED (CPU, DRAM, VGA, Boot Device LED)
+	- ASUS Q-Slot
+	- ASUS Q-DIMM 
+	- ASUS Q-Connector
+	RAMCache
+	AURA: RGB Lighting Control
+Operating System Support
+	Windows® 10 , 64bit
+	Windows® 8.1 , 32bit/64bit
+	Windows® 7 , 32bit/64bit
+Back I/O Ports
+	1 x PS/2 keyboard/mouse combo port(s)
+	1 x LAN (RJ45) port(s)
+	1 x USB 3.1 (red)Type-A
+	1 x USB 3.1 (black)Type-C
+	4 x USB 3.0 (blue) 
+	4 x USB 2.0 (one port can be switched to USB BIOS Flashback) 
+	5 x Audio jack(s)
+	1 x USB BIOS Flashback Button(s)
+	1 x ASUS Wi-Fi GO! module (Wi-Fi 802.11 a/b/g/n/ac and Bluetooth v4.0
+Internal I/O Ports
+	1 x U.2 port
+	1 x AAFP connector
+	1 x Aura RGB Strip Header
+	2 x USB 3.0 connector(s) support(s) additional 4 USB 3.0 port(s) 
+	2 x USB 2.0 connector(s) support(s) additional 4 USB 2.0 port(s)
+	1 x SATA Express connector: , Compatible with 2 x SATA 6.0 Gb/s ports
+	1 x M.2 Socket 3 with M Key design, type 2242/2260/2280/22110 storage devices support (Support PCIE SSD only)
+	8 x SATA 6Gb/s connector(s)
+	1 x CPU Fan connector(s) 
+	1 x CPU OPT Fan connector(s) 
+	2 x Chassis Fan connector(s) 
+	1 x Thunderbolt header(s)
+	1 x 24-pin EATX Power connector(s)
+	1 x 8-pin ATX 12V Power connector(s)
+	1 x 4-pin ATX 12V Power connector(s)
+	1 x EZ XMP switch
+	1 x 5-pin EXT_FAN(Extension Fan) connector
+	1 x DRCT header(s)
+	1 x MemOK! button(s)
+	1 x Thermal sensor connector(s)
+	1 x CPU OV
+	1 x Power-on button(s)
+	1 x Reset button(s)
+	1 x Clear CMOS jumper(s)
+	1 x Water Pump header (4-pin)
+	1 x ROG extension (ROG_EXT) header(s)
+	1 x 14-1 pin TPM connector
+	1 x COM port header
+	1 x High AMP Fan header (4-pin)
+Accessories
+	User's manual
+	I/O Shield
+	4 x SATA 6Gb/s cable(s)
+	1 x M.2 Screw Package
+	1 x CPU installation tool
+	1 x Supporting DVD
+	1 x ASUS 2T2R dual band Wi-Fi moving antennas (Wi-Fi 802.11a/b/g/n/ac compliant)
+	1 x Cable ties pack(s)
+	ROG Fan Label
+	1 x Extension Cable for RGB strips (80 cm)
+BIOS
+	128 Mb Flash ROM, UEFI AMI BIOS, PnP, WfM2.0, SM BIOS 3.0, ACPI 5.0, Multi-language BIOS, 
+	ASUS EZ Flash 3, CrashFree BIOS 3, F11 EZ Tuning Wizard, F6 Qfan Control, F3 My Favorites, Quick Note, Last Modified log, F12 PrintScreen, and ASUS DRAM SPD (Serial Presence Detect) memory information.
+Manageability
+	WfM 2.0, WOL by PME, PXE
+Form Factor
+	ATX Form Factor 
+	12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )
+Note
+	*1 The PCIEX4_1, PCIEX1_2, and USB3.1_EC1EA2 connectors share the same bandwidth. By default, the PCIEX4_1 slot and PCIEX1_2 slot automatically run at x1 mode with USB3.1_EC1 and USB3.1_EA2 enabled for best resource optimization.
+	*2 These functions will work depending on the CPU installed.

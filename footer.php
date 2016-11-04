@@ -4,6 +4,7 @@
 
 <footer class="container-fluid panel-footer">
   <p style="text-align: center;">This website is created by Aaron Lam</p>
+  <p style="text-align: center;">Photos and Info credit to ASUS Website</p>
 </footer>
 
 </body>

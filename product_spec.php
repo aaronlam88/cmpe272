@@ -14,15 +14,15 @@ echo "
 <table class=\"table table-striped table-hover\">
   <tr>
     <th style=\"width: 80%\"> 
-      <img id=\"image\" class=\"image-full\" src=\"/CMPE-272/images/product_images/$name//x01.png\"> 
+      <img id=\"image\" class=\"image-full\" src=\"/CMPE-272/images/product_images/$name/01.png\"> 
     </th>
     <th>
       <div>";
         foreach ($files as $fileName) {
-          if(strcmp($fileName[0], "x") == 0) {
+          if(pathinfo($fileName, PATHINFO_EXTENSION) == "png") {
             $imgName="/CMPE-272/images/product_images/$name/$fileName";
             echo "
-            <img class=\"image-icon\" src=\"$imgName\" onmouseover=\"show_image('$imgName')\"> <br>";
+            <img class=\"image-icon\" src=\"$imgName?<?=Date('U')?>\" onmouseover=\"show_image('$imgName')\"> <br>";
           }
         }
         echo "
