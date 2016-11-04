@@ -20,12 +20,18 @@ require_once "header.php";
 
         foreach ($files as $fileName) {
           if(strcmp($fileName[0], ".") != 0) {
+
             $curDir="/CMPE-272/images/product_images/$fileName";
+
+            $curFile = scandir("$imgdir$fileName");
+
+            $images=preg_grep('/\.(jpg|jpeg|png|gif)(?:[\?\#].*)?$/i', $curFile);
+
             echo "
               <tr>
                 <td>
                   <a href=\"/CMPE-272/product_spec.php?name=$fileName\">
-                  <img class=\"image-icon\" src=\"$curDir/01.png\">
+                  <img class=\"image-icon\" src=\"$curDir/$images[2]\">
                   </a>
                 </td>
                 <td> 

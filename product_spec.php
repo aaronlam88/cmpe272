@@ -9,21 +9,23 @@ $name = $_GET['name'];
 $dir = getcwd();
 $imgdir = "$dir/images/product_images/$name";
 $files=scandir($imgdir);
+$images=preg_grep('/\.(jpg|jpeg|png|gif)(?:[\?\#].*)?$/i', $files);
 
 echo "
 <table class=\"table table-striped table-hover\">
   <tr>
     <th style=\"width: 80%\"> 
-      <img id=\"image\" class=\"image-full\" src=\"/CMPE-272/images/product_images/$name/01.png\"> 
+      <img id=\"image\" class=\"image-full\" src=\"/CMPE-272/images/product_images/$name/$images[2]\"> 
     </th>
     <th>
       <div>";
-        foreach ($files as $fileName) {
-          if(pathinfo($fileName, PATHINFO_EXTENSION) == "png") {
-            $imgName="/CMPE-272/images/product_images/$name/$fileName";
+        foreach ($images as $image) {
+          // $ext = pathinfo($filename, PATHINFO_EXTENSION);
+          // if(strcmp($fileName[0], "x") == 0) {
+            $imgName="/CMPE-272/images/product_images/$name/$image";
             echo "
             <img class=\"image-icon\" src=\"$imgName?<?=Date('U')?>\" onmouseover=\"show_image('$imgName')\"> <br>";
-          }
+          // }
         }
         echo "
       </div>
