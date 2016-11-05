@@ -1,0 +1,9 @@
+<h4>ROG's flagship AMD FM2+ ATX gaming motherboard boosts your game with superb networking and audio performance</h4>
+<ul>
+  <li>AMD Socket FM2+ Athlon™/A-series processors</li>
+  <li>AMD A88X FCH (Bolton D4) chipset</li>
+  <li>Intel™ Ethernet + LANGuard + GameFirst III – Game networking taken to the next level</li>
+  <li>SupremeFX 2014 + Sonic Radar II – New and improved audio that’s beyond compare</li>
+  <li>KeyBot – An instant keyboard upgrade</li>
+  <li>Gamer’s Guardian - All-round protection for the best quality, reliability and durability</li>
+</ul>

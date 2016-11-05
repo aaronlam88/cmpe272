@@ -1,0 +1,10 @@
+<h4>ROG high-value gaming ATX-board with brilliant performance and exclusive game-boosting features </h4>
+<ul>
+	<li>Intel® LGA1150 4th, New 4th & 5th-Generation Core™ i7/Core™ i5/Core™ i3/Pentium®/Celeron® Processors Ready</li> 
+	<li>Intel® Z97 Express Chipset with M.2 support (up to 10Gb/s data-transfer)</li> 
+	<li>Intel™ Ethernet + LANGuard + GameFirst III –This is game networking taken to the next level. This is ROG</li> 
+	<li>SupremeFX 2014 + Sonic Radar II – New and improved audio that’s beyond compare</li> 
+	<li>KeyBot + TrueVolt USB - Instant keyboard upgrade and rock-steady 5V USB supply</li> 
+	<li>USB UEFI BIOS and Secure Erase - Award-winning simplicity and factory-fresh conditioning for superb performance</li> 
+	<li>World’s first dual-color PCB with a matte black and red finish </li>
+</ul>

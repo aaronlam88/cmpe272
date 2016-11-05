@@ -1,0 +1,178 @@
+Specifications
+CPU
+	Intel® Socket 1150 for the 5th/New 4th/4th Generation Core™ i7/Core™ i5/Core™ i3/Pentium®/Celeron® Processors 
+	Supports Intel® 22 nm CPU
+	Supports Intel® Turbo Boost Technology 2.0 
+	* The Intel® Turbo Boost Technology 2.0 support depends on the CPU types.
+	* Refer to www.asus.com for CPU support list
+Chipset
+	Intel® Z97
+Memory
+	4 x DIMM, Max. 32GB, DDR3 3200(O.C.)/3100(O.C.)/3000(O.C.)/2933(O.C.)/2800(O.C.)/2666(O.C.)/2600(O.C.)/2500(O.C.)/2400(O.C.)/2200(O.C.)/2133(O.C.)/2000(O.C.)/1866(O.C.)/1800(O.C.)/1600/1333 MHz Non-ECC, Un-buffered Memory *
+	Dual Channel Memory Architecture 
+	Supports Intel® Extreme Memory Profile (XMP)
+	* Hyper DIMM support is subject to the physical characteristics of individual CPUs. 
+	* Refer to www.asus.com for the Memory QVL (Qualified Vendors Lists).
+Graphic
+	Integrated Graphics Processor- Intel® HD Graphics support 
+	Multi-VGA output support : HDMI/DVI-D/RGB ports 
+	- Supports HDMI with max. resolution 4096 x 2160 @ 24 Hz / 2560 x 1600 @ 60 Hz
+	- Supports DVI-D with max. resolution 1920 x 1200 @ 60 Hz
+	- Supports RGB with max. resolution 1920 x 1200 @ 60 Hz
+	Maximum shared memory of 512 MB
+	Supports Intel® InTru™ 3D, Quick Sync Video, Clear Video HD Technology, Insider™
+	Supports up to 3 displays simultaneously
+Multi-GPU Support
+	Supports NVIDIA® Quad-GPU SLI™ Technology 
+	Supports AMD Quad-GPU CrossFireX™ Technology
+	Expansion Slots
+	2 x PCIe 3.0/2.0 x16 (x16 or dual x8, red) 
+	1 x PCIe 2.0 x16 (x4 mode, black) *1
+	3 x PCIe 2.0 x1 *2
+Storage
+	Intel® Z97 chipset : 
+	6 x SATA 6Gb/s port(s), red, with M key, type 2242/2260/2280 storage devices support
+	Support Raid 0, 1, 5, 10
+	Supports Intel® Smart Response Technology, Intel® Rapid Start Technology, Intel® Smart Connect Technology *3
+	1 x M.2 Socket 3, black, with M Key, type 2260/2280 storage devices support (PCIE mode)
+	ASMedia® PCIe SATA controller : *4
+	2 x SATA 6Gb/s port(s), red, with M key, type 2242/2260/2280 storage devices support
+	LAN
+	Intel® I218V, 1 x Gigabit LAN Controller(s), featuring GAMEFIRST III
+	Intel® LAN- Dual interconnect between the Integrated LAN controller and Physical Layer (PHY)
+	Anti-surge LANGuard
+	Audio
+	ROG SupremeFX 8-Channel High Definition Audio CODEC 
+	- Supports : Jack-detection, Multi-streaming, Front Panel Jack-retasking
+Audio Feature :
+	- SupremeFX Shielding™ Technology
+	- ELNA premium audio capacitors
+	- Blu-ray audio layer Content Protection 
+	- DTS Connect
+	- Optical S/PDIF out port(s) at back panel
+	- Sonic SoundStage
+	- Sonic SenseAmp
+	- Sonic Studio
+	- Sonic Radar II
+USB Ports
+	Intel® Z97 chipset : 
+	6 x USB 3.0/2.0 port(s) (4 at back panel, blue, 2 at mid-board)
+	Intel® Z97 chipset : *5
+	7 x USB 2.0/1.1 port(s) (2 at back panel, black, 5 at mid-board)
+ROG Exclusive Features
+	Extreme Engine Digi+ III :
+	- 8 + 2 phase power design
+	- NexFET™ Power Block MOSFET
+	- 60A Ferrite Chokes
+	- 10K Black Metallic Capacitors
+	KeyBot
+	- CPU Level Up
+	- XMP
+	- Direct Key
+	UEFI BIOS features :
+	- GPU.DIMM Post
+	- Tweakers' Paradise
+	- ROG SSD Secure Erase
+	- Graphic Card Information Preview
+	ROG RAMDisk
+	GameFirst III
+	Extreme Tweaker
+	Special Features
+	ASUS Dual Intelligent Processors 5-Way Optimization by Dual Intelligent Processors 5 :
+
+	Gamer's Guardian:
+	- ESD Guards on LAN, Audio, KBMS and USB3.0/2.0 ports
+	- DRAM Overcurrent Protection
+	- 10K Black Metallic Capacitors
+	- Stainless Steel Back I/O
+	ASUS Exclusive Features :
+	- MemOK!
+	- AI Suite 3
+	- Ai Charger 
+	- USB Charger+ 
+	- USB 3.0 Boost
+	- Disk Unlocker
+	ASUS EZ DIY :
+	- ASUS O.C. Profile
+	- ASUS CrashFree BIOS 3 
+	- ASUS EZ Flash 2 
+	- ASUS USB BIOS Flashback 
+	- Push Notice
+	ASUS Q-Design :
+	- ASUS Q-Shield
+	- ASUS Q-Code
+	- ASUS Q-LED (CPU, DRAM, VGA, Boot Device LED)
+	- ASUS Q-Slot
+	- ASUS Q-DIMM 
+	- ASUS Q-Connector
+	Overclocking Protection :
+	- ASUS C.P.R.(CPU Parameter Recall)
+	Media Streamer
+Operating System Support
+	Windows® 8.1 
+	Windows® 8 
+	Windows® 7
+Back I/O Ports
+	1 x PS/2 keyboard/mouse combo port(s)
+	1 x DVI
+	1 x D-Sub
+	1 x HDMI
+	1 x LAN (RJ45) port(s)
+	4 x USB 3.0 (blue) 
+	2 x USB 2.0 
+	1 x Optical S/PDIF out
+	6 x Audio jack(s)
+	1 x USB BIOS Flashback Button(s)
+Internal I/O Ports
+	1 x USB 3.0 connector(s) support(s) additional 2 USB 3.0 port(s) 
+	3 x USB 2.0 connector(s) support(s) additional 5 USB 2.0 port(s)
+	1 x M.2 Socket 3 for M Key, type 2260/2280 devices
+	1 x TPM header
+	8 x SATA 6Gb/s connector(s)
+	1 x CPU Fan connector(s) (1 x 4 -pin)
+	1 x CPU OPT Fan connector(s) (1 x 4 -pin)
+	4 x Chassis Fan connector(s) (4 x 4 -pin)
+	1 x 24-pin EATX Power connector(s)
+	1 x 8-pin ATX 12V Power connector(s)
+	1 x Front panel audio connector(s) (AAFP)
+	1 x System panel(s) (Q-Connector)
+	1 x MemOK! button(s)
+	1 x Thermal sensor connector(s)
+	1 x Power-on button(s)
+	1 x Reset button(s)
+	1 x Clear CMOS button(s)
+	1 x ROG extension (ROG_EXT) header(s)
+	1 x KeyBot Button
+	1 x Sonic SoundStage Button
+Accessories
+	User's manual
+	ASUS Q-Shield
+	6 x SATA 6Gb/s cable(s)
+	1 x SLI bridge(s)
+	1 x Q-connector(s) (2 in 1) 
+	1 x 12 in 1 ROG Cable Label(s)
+	1 x ROG Door Hanger(s)
+BIOS
+	64Mb UEFI AMI BIOS, PnP, DMI2.7, WfM2.0, SM BIOS 2.7, ACPI5.0a, Multi-Language BIOS
+Manageability
+	WfM 2.0, DMI 2.7, WOL by PME, PXE
+	Support Disc
+	Drivers
+	ROG GameFirst III
+	ROG RAMDisk
+	ROG CPU-Z
+	ROG Mem TweakIt
+	Kaspersky® Anti-Virus
+	DAEMON Tools Pro Standard
+	ASUS WebStorage
+	Home Cloud
+	ASUS Utilities
+Form Factor
+	ATX Form Factor 
+	12 inch x 9.6 inch ( 30.5 cm x 24.4 cm )
+Note
+	*1: The PCIe 2.0 x16 slot (PCIEX4_3) shares bandwith with PCIe 2.0 x1 and M.2 slot. The default setting is Auto Mode, which automatically optimizes the system bandwidth. If you install a PCIe 2.0 x4 device, the system will automatically detect and disable PCIe 2.0 x1 and M.2 slot.
+	*2: The PCIe 2.0 x1 slots (PCIEX1_1/2/3) will be disabled when PCIe 2.0 x16 slot (PCIEX4_3 ) operates under x4 speed or M.2 mode.
+	*3: The supported functions depends on the CPU installed.
+	*4: These SATA ports are for data hard drivers only. ATAPI devices are not supported.
+	*5: 1 x USB2.0 ports at mid-board shares with ROG extension (ROG_EXT) port.

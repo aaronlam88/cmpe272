@@ -1,0 +1,8 @@
+<h4>ROG RAMPAGE V EDITION 10 LGA2011 Aura RGB SafeSlot AC Wi-Fi X99 Motherboard for Intel Core i7 X-Series with 5-Way Optimization DDR4 M.2 U.2 USB 3.1</h4>
+<ul>
+ <li>Next-gen connectivity – Includes extensive upgrades including onboard U.2 / M.2 slots that tap into 32Gbps of PCIe bandwidth, 3x3 802.11ac Wi-Fi and USB 3.1 Type C</li> 
+ <li>ASUS Aura – Features controllable, 5-zone RGB onboard lighting and 4-pin strip header that can be synced with an ever-growing portfolio of Aura-capable ASUS hardware</li> 
+ <li>Patent-pending SafeSlot – Reinvented, strengthened PCIe slot utilizes a new insert-molding process to bind the slot to fortifying metal for superior retention and shearing resistance</li> 
+ <li>5-Way Optimization – 1-click full system tuning handles everything from overclocking to cooling and beyond</li> 
+ <li>SupremeFX Hi-Fi USB DAC + SupremeFX Audio – ROG-renowned audio with SupremeFX shielding for noise reduction and dual headphone op-amps</li>
+</ul>

@@ -1,0 +1,11 @@
+<h4>Well-built ATX gaming board loaded with gaming-optimized features</h4>
+<ul>
+  <li>LGA1151 socket for 6th-gen Intel® Core™ i7 / Core i5 / Core i3, Pentium® and Celeron Processors</li>
+  <li>Dual DDR4 2133 support</li>
+  <li>SupremeFX: Flawless audio that makes you part of the game</li>
+  <li>Sonic Radar ll: Scan and detect your enemies to dominate</li>
+  <li>Intel Gigabit Ethernet, LANGuard and GameFirst III: Top-speed protected networking</li>
+  <li>RAMCache: Speed up your game loads</li>
+  <li>Gamer's Guardian: Highly-durable components and smart DIY features</li>
+  <li>USB 3.1 Type-A/C and M.2: Ultra-speedy transfers for faster gaming</li>
+</ul>
