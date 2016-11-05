@@ -45,7 +45,7 @@ function setActive($currentPage, $compare) {
         <li <?php setActive($TITLE, "About"); ?>> <a href="/CMPE-272/about.php">About</a></li>
         <li <?php setActive($TITLE, "User"); ?>> <a href="/CMPE-272/user.php">User</a></li> 
         <li <?php setActive($TITLE, "Login"); ?>> <a href="/CMPE-272/login.php">Login</a></li> 
-        <li <?php setActive($TITLE, "History"); ?>> <a href="/CMPE-272/history.php">Login</a></li>  
+        <li <?php setActive($TITLE, "History"); ?>> <a href="/CMPE-272/history.php">History</a></li>  
       </ul>
     </nav>
   </header>
