@@ -1,5 +1,4 @@
 <?php
-
 if (!isset($TITLE)) {
   $TITLE = "UNTITLED PAGE";
 }
@@ -9,7 +8,6 @@ function setActive($currentPage, $compare) {
     echo "class=\"active\"";
   }
 }
-
 ?>
 
 
