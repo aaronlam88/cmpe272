@@ -1,7 +1,0 @@
-<h4>Awaken the true performance in a click, with ASUS Aura and SafeSlot.</h4>
-<ul>
-  <li>ASUS Aura – Features controllable RGB onboard lighting.</li>
-  <li>SafeSlot – Reinvented, strengthened PCIe slot utilizes a new insert-molding process to bind the slot to fortifying metal for superior retention and shearing resistance</li>
-  <li>5-Way Optimization: Fan Xpert 4 – Elevates customized cooling to new heights, with the ability to detect PWM/DC fans on all headers, utilize high-amperage fans and control water-cooling pumps in software and UEFI.</li>
-  <li>Next-gen connectivity –Great flexibility with onboard M.2 slots that tap into 32Gbps of PCIe bandwidth, plus USB 3.1 Type-C</li>
-</ul>

@@ -1,7 +1,0 @@
-<h3>Arctic-camouflaged TUF Z170 ATX board with ultimate cooling and extreme durability</h3>
-<ul>
-<li>Digital Arctic-Camo PCB and Q-LED indicators</li>
-<li>USB 3.1 onboard: One Type-A port plus a reversible Type-C port</li>
-<li>TUF Detective 2 – system information at your fingertips</li>
-<li>TUF ICe & Thermal Radar 2 – Total cooling system</li>
-<li>TUF Components [TUF 10K Ti-Caps, TUF Alloy Chokes & MOSFETs; Certified by Military-standard]</li>
