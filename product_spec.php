@@ -5,9 +5,11 @@ require_once "header.php";
 
 <?php
 
-$name = $_GET['name'];
+$name = $_GET['productName'];
+
 $dir = getcwd();
 $imgdir = "$dir/images/product_images/$name";
+
 $files=scandir($imgdir);
 $images=preg_grep('/\.(jpg|jpeg|png|gif)(?:[\?\#].*)?$/i', $files);
 

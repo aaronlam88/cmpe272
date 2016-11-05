@@ -30,7 +30,7 @@ require_once "header.php";
             echo "
               <tr>
                 <td>
-                  <a href=\"/CMPE-272/product_spec.php?name=$fileName\">
+                  <a href=\"/CMPE-272/product_spec.php?productName=$fileName\">
                   <img class=\"image-icon\" src=\"$curDir/$images[2]\">
                   </a>
                 </td>
@@ -39,7 +39,7 @@ require_once "header.php";
                 "<h3>" . strtoupper(str_replace('_', ' ', $fileName)) . "</h3>" .
                 file_get_contents("$imgdir/$fileName/description.txt") .
                 "
-                <a href=\"/CMPE-272/product_spec.php?name=$fileName\"> more... </a>
+                <a href=\"/CMPE-272/product_spec.php?productName=$fileName\"> more... </a>
                 </td>
                   <td>" .
                 file_get_contents("$imgdir/$fileName/price.txt") .

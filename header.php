@@ -49,4 +49,101 @@ function setActive($currentPage, $compare) {
     </nav>
   </header>
 
+  <div>
+    <?php
+    $productName = $_GET["productName"];
+
+    if (isset($productName)) {
+      //Most Visited
+      $mostVisited = $_COOKIE["mostVisited"];
+
+      if(isset($mostVisited)) {
+
+        $find = false;
+
+        foreach ($mostVisited as $key => $value) {
+          if (strcmp($key, $productName) == 0) {
+            $value = $value + 1;
+            setcookie("mostVisited[$productName]", "$value", time() + 3600, '/');
+            $find = true;
+            break;
+          }
+          if ($value == 1) {
+            $min = $key;
+          }
+        }
+
+        if(!$find) {
+          if(isset($min)) {
+            setcookie("mostVisited[$productName]", 1, time() + 3600, '/');
+          } else {
+            setcookie("mostVisited[$productName]", 1, time() + 3600, '/');
+          }
+        }
+      } else {
+        setcookie("mostVisited[$productName]", 1, time() + 3600, '/');
+      }
+
+
+      //Last Five
+      $lastFive = $_COOKIE["lastFive"];
+
+      if(isset($lastFive)) {
+        asort($lastFive);
+        $lastItem = end($lastFive);
+        setcookie("lastFive[$lastItem]", "", time()-3600);
+        setcookie("lastFive[$productName]", microtime(), time() + 3600, '/');
+      } else {
+        setcookie("lastFive[$productName]", microtime(), time() + 3600, '/');
+      }
+
+
+    }
+
+    //Print out
+    $mostVisited = $_COOKIE["mostVisited"];
+    $lastFive = $_COOKIE["lastFive"];
+    arsort($mostVisited);
+    asort($lastFive);
+
+    echo "
+    <table class=\"table\">
+      <tr>
+        <th> The most visited products: </th>
+        <th> The last five visited products: </th>
+      </tr>
+      <tr>
+        ";
+        if(isset($mostVisited)) {
+          echo "
+          <td>
+            <ul>";
+              foreach ($mostVisited as $key => $value) {
+                echo "
+                <li> $key </li>";
+              }
+              echo "
+            </ul>
+          </td>";
+        }
+
+        if(isset($lastFive)) {
+          echo "
+          <td>
+            <ul>";
+              foreach ($lastFive as $key => $value) {
+                echo "
+                <li> $key </li>";
+              }
+              echo "
+            </ul>
+          </td>";
+        }
+        echo "
+      </tr>
+    </table>";
+
+    ?>
+  </div>
+
 
