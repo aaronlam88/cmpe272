@@ -38,7 +38,7 @@ if (isset($add)) {
   if (mysqli_query($conn, $sql)) {
     echo "ADD";
   } else {
-    echo "SELECT ERROR: $sql" . mysqli_error($conn);
+    echo "ADD ERROR: $sql" . mysqli_error($conn);
   }
 } else if (isset($search)) {
   $name = $_POST["name"];

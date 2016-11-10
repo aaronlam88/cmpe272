@@ -2,7 +2,7 @@
   require_once "header.php";
 ?>
 
-<footer class="container-fluid panel-footer">
+<footer class="container">
   <p style="text-align: center;">This website is created by Aaron Lam</p>
   <p style="text-align: center;">Photos and Info credit to ASUS Website</p>
 </footer>
